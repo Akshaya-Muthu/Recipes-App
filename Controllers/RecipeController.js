@@ -3,12 +3,7 @@ import Recipes from "../Models/RecipeSchema.js";
 // create Recipe / post method
 
 export const CreateRecipe = async (req, res) => {
-  // const {name,price} = req.body
-  // const newProd = {
-  //     name:name,
-  //     price:price
-  // }
-  // await newProd.save();
+  
 
   try {
     const newRecipes = new Recipes(req.body); // req.body and assigning in a single line
