@@ -25,5 +25,7 @@ A simple CRUD application for managing recipes using Node.js, Express.js, and Mo
 |----------|------------------|-------------------------------|
 | Node.js, Express.js | MongoDB, Mongoose  |  Postman      |
 
+API documentation
+https://documenter.getpostman.com/view/44994873/2sB2qajhD2
 
 
